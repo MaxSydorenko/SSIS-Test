@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">EPUAKYIW0060</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjupHNY74mUigTNtwhenpzwAAAAACAAAAAAADZgAAwAAAABAAAACPKq0+jqgrUMC4DCBwpg4vAAAAAASAAACgAAAAEAAAAHv73MubLPV+0Sl5/2asc4OIAAAA4WLRmEg2nnW1EBiQ54Z5KcXoabqWO87Hv5UysoRhVtrygJt8tSwXVb+pmuTZh8p9TVjylBMpRVyJKTGmIQwGKCnMcQkl0FBT94RbiFd0RyjrKIwkUbYdh5zswNc+XZglmGe3yN3u4dTG359AoNxvIdbdS14YcuJhWu6T9u+IVSRnQL9Ca0qLqRQAAACkWiBnOQTpEh5LKkLX5ERw7WKi4A==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjupHNY74mUigTNtwhenpzwAAAAACAAAAAAADZgAAwAAAABAAAAAZGBg7Ew94Ho2fu4jIrAVWAAAAAASAAACgAAAAEAAAAAeVGu3JRhwXhV/3ng1mMcCIAAAAYKq7fLMkQ4wk7W69CAtWeYIMf/P+gQ8Vn8a00UFnMZOVKWTPeDz/Ngywg1C55fiYVSasat/HKXyeh1/AywygFSV5RLnKZTmGiMC8rlhi7VZLmwzJfGBkdaA+GAzCKACNQ6aee+JiinwAQKqKW4bQgIclid3gnn6gcIDFfrlOavwoHnWolNbvmxQAAADejlT9RX/ttpM0bGp49M876xUMkw==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -148,12 +148,12 @@
           <ConfigurationSetting>
             <Id>LastModifiedTime</Id>
             <Name>LastModifiedTime</Name>
-            <Value xsi:type="xsd:dateTime">2018-11-06T14:49:28.8565382Z</Value>
+            <Value xsi:type="xsd:dateTime">2018-11-07T09:30:25.8158161Z</Value>
           </ConfigurationSetting>
           <ConfigurationSetting>
             <Id>{a5ced500-22dc-4666-82c1-647622505614}</Id>
             <Name>Project::LocalHostWideWorldImporters_ConnectionString</Name>
-            <Value xsi:type="xsd:string">Data Source=.;Initial Catalog=WideWorldImporters1;Integrated Security=True;</Value>
+            <Value xsi:type="xsd:string">Data Source=.;Initial Catalog=WideWorldImporters;Integrated Security=True;</Value>
           </ConfigurationSetting>
         </ParameterConfigurationValues>
       </Options>
